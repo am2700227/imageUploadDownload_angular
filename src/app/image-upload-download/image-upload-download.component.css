@@ -1,0 +1,12 @@
+h2{
+    color : skyblue;
+}
+
+.upload-file,.download-file{
+    /* margin-left: 300px;
+    margin-top:50px; */
+  
+    display: flex;
+ 
+  align-items: center; /* Adjust as needed */
+}
